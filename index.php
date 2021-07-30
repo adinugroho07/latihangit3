@@ -11,6 +11,10 @@
 <body>
     <div>
         <h2>hello world !!</h2>
+        <ul>
+            <li>satu</li>
+            <li>dua</li>
+        </ul>
     </div>
 </body>
 
